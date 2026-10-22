@@ -6,8 +6,16 @@
     border: 1px solid red;
 }
 
-body {
+body,
+#logo {
    display:flex;
+}
+
+#section-1 {
+    background-image: url("rafael-garcin-architecture-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #section-2 {
