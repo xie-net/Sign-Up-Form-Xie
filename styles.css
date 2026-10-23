@@ -23,7 +23,14 @@ body,
 }
 
 #logo {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    justify-content: center;
     align-items: center;
+    
+    background-color: rgba(0, 0, 0, 0.25);
+    color: white;
 }
 
 .logo-img {
@@ -36,8 +43,11 @@ body,
     bottom: 0;
     left: 50%;
     transform: translateX(-50%); 
+    width: 100%;
 
     text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.25);
 
 }
 
