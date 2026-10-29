@@ -78,7 +78,7 @@ body,
 
 form {
     margin-top: 50px;
-    padding: 10px 50px 20px 25px;
+    padding: 10px 50px 20px 40px;
 
     background-color: white;
     box-shadow: 2px 5px 10px #00000033;
@@ -145,4 +145,15 @@ button {
 .log-in {
     font-size: 18px;
 
+}
+
+.log-in a {
+    text-decoration: none;
+    color: #596D48;
+    font-weight: bold;
+}
+
+.footer-1 a {
+    text-decoration: underline;
+    color: #E5E7EB;
 }
