@@ -12,10 +12,6 @@ body,
    display:flex;
 }
 
-#section-2 {
-
-}
-
 #section-1 {
     background-image: url("rafael-garcin-architecture-unsplash.jpg");
     background-size: cover;
